@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"tmpd",
+				"tmpdir_factory"
+			],
+			[
+				"IM",
+				"IMG_FOLDER"
+			],
+			[
+				"pkg",
+				"pkg_identidier"
+			],
+			[
+				"target",
+				"target_legato_ver"
+			],
+			[
+				"sear",
+				"searched_version_results"
+			],
+			[
+				"latest",
+				"latest_legato_index"
+			],
+			[
+				"search",
+				"searched_version_results"
+			],
+			[
+				"mode",
+				"module_name"
+			],
+			[
+				"publsi",
+				"publish_app"
+			],
+			[
+				"RELA",
+				"RELEASED"
+			],
+			[
+				"pack",
+				"package_name"
+			],
+			[
+				"lga",
+				"legato_revision"
+			],
+			[
+				"legato_",
+				"legato_image_path"
+			],
+			[
+				"legato",
+				"legato_revision"
+			],
+			[
+				"gener",
+				"generic_name"
+			],
+			[
+				"netwo",
+				"network_route2"
+			],
+			[
+				"netw",
+				"network_route1"
+			],
+			[
+				"net",
+				"network_route2"
+			],
+			[
+				"chann",
+				"channel_index"
+			],
+			[
+				"with",
+				"withexitstatus"
+			],
+			[
+				"LE",
+				"LE_DCS_CHANNEL_NAME_MAX_LEN"
+			],
+			[
+				"all",
+				"all_channel_names"
+			],
+			[
+				"MA",
+				"MAX_NUM_PROFILES"
+			],
+			[
+				"con",
+				"construct_networkroute"
+			],
+			[
+				"const",
+				"construct_hostroute"
+			],
+			[
+				"channelInd",
+				"channel_index"
+			],
+			[
+				"MAX",
+				"MAX_NUM_PROFILES"
+			],
+			[
+				"set",
+				"set_profile_index_fields"
+			],
+			[
+				"CHAN",
+				"CHANNEL_UNDER_TEST"
+			],
+			[
+				"pdp",
+				"pdp_list"
+			],
+			[
+				"AP",
+				"APP_NAME"
+			],
+			[
+				"cap",
+				"capability"
+			],
+			[
+				"al",
+				"all_capabilities"
+			],
+			[
+				"skip",
+				"skip_by_cap"
+			],
+			[
+				"INI",
+				"INIT_ONCE_XML"
+			],
+			[
+				"asser",
+				"associated_markers"
+			],
+			[
+				"capa",
+				"capabilities"
+			],
+			[
+				"iccid",
+				"iccids"
+			],
+			[
+				"iic",
+				"iccids"
+			],
+			[
+				"ass",
+				"associated_markers"
+			],
+			[
+				"sms",
+				"sms_used"
+			],
+			[
+				"sim",
+				"sim_iccid"
+			],
+			[
+				"icc",
+				"iccid"
+			],
+			[
+				"disconnect",
+				"disconnected"
+			],
+			[
+				"is",
+				"isConnected"
+			],
+			[
+				"LE_MD",
+				"LE_MDC_DISCONNECTED"
+			],
+			[
+				"exp",
+				"expiryCount"
+			],
+			[
+				"test",
+				"test_images"
+			],
+			[
+				"tes",
+				"test_images"
+			],
+			[
+				"print",
+				"print_param"
+			],
+			[
+				"img",
+				"img_download_arr"
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"get",
+				"get_app_status"
+			],
+			[
+				"num",
+				"numPackages"
+			],
+			[
+				"version",
+				"version_str2"
+			],
+			[
+				"ver",
+				"version_str2"
+			],
+			[
+				"getL",
+				"getLatestNPackages"
+			],
+			[
+				"leaf",
+				"leafObj"
+			],
+			[
+				"uni",
+				"unique_packages"
+			],
+			[
+				"unu",
+				"unique_packages"
+			],
+			[
+				"ful",
+				"full_package"
+			],
+			[
+				"targ",
+				"targetName"
+			],
+			[
+				"getS",
+				"getSubPackages"
+			],
+			[
+				"tar",
+				"targetName"
+			],
+			[
+				"getLe",
+				"getLegatoPackage"
+			],
+			[
+				"env",
+				"envs"
+			],
+			[
+				"pak",
+				"packageType"
+			],
+			[
+				"reord",
+				"reorderSearchResults"
+			],
+			[
+				"package",
+				"packageType"
+			],
+			[
+				"packa",
+				"packageType"
+			],
+			[
+				"sea",
+				"searchReturn"
+			],
+			[
+				"res",
+				"restart_retries"
+			],
+			[
+				"dcs",
+				"dcs_test_api_RmEventHandler"
+			],
+			[
+				"dcs_le",
+				"dcs_test_data_api_RmConnStateHandler"
+			],
+			[
+				"param",
+				"param1"
+			],
+			[
+				"profi",
+				"profileIndex"
+			],
+			[
+				"pt",
+				"ptr_to_dcs1"
+			],
+			[
+				"chan",
+				"channelCopy"
+			],
+			[
+				"ptr",
+				"ptr_to_dcs1"
+			],
+			[
+				"chen",
+				"channelCopy"
+			],
+			[
+				"cha",
+				"channel_index"
+			],
+			[
+				"state_",
+				"state_up"
+			],
+			[
+				"stat",
+				"state_down"
+			],
+			[
+				"re",
+				"regexes"
+			],
+			[
+				"logrea",
+				"logread_match"
+			],
+			[
+				"grou",
+				"group_regexes"
+			],
+			[
+				"gro",
+				"group_regexes"
+			],
+			[
+				"ch",
+				"channelName"
+			],
+			[
+				"my",
+				"myTech"
+			],
+			[
+				"tech",
+				"technology"
+			],
+			[
+				"lega",
+				"legato_version"
+			],
+			[
+				"legat",
+				"legato_revision"
+			],
+			[
+				"MODEL",
+				"MODEL_APP_PATH"
+			],
+			[
+				"rol",
+				"rollback_legato_image_dir"
+			],
+			[
+				"roll",
+				"rollback_legato_image_path"
+			],
+			[
+				"fota",
+				"FOTA"
+			],
+			[
+				"zip",
+				"zip_file"
+			],
+			[
+				"fwu",
+				"fwbundlename"
+			],
+			[
+				"return",
+				"return_json"
+			],
+			[
+				"fwbun",
+				"fwbundlename"
+			],
+			[
+				"mod",
+				"module_name"
+			],
+			[
+				"json",
+				"json_format"
+			],
+			[
+				"paca",
+				"package_name"
+			],
+			[
+				"AV",
+				"AV_PACKAGE_GEN"
+			],
+			[
+				"MODE",
+				"MODEL_APP_PATH"
+			],
+			[
+				"assert",
+				"assert_no_path"
+			],
+			[
+				"lea",
+				"leafWrapper"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"IMD",
+				"IMG_FOLDER"
+			],
+			[
+				"IMG",
+				"IMG_FOLDER"
+			],
+			[
+				"de",
+				"dependency"
+			],
+			[
+				"sub",
+				"subprocess"
+			],
+			[
+				"sort",
+				"sorted_list"
+			],
+			[
+				"filter",
+				"filtered_list"
+			],
+			[
+				"imag",
+				"image_list"
+			],
+			[
+				"TARGET",
+				"TARGET_NAME"
+			],
+			[
+				"searc",
+				"search_cmd"
+			],
+			[
+				"reo",
+				"reorder_search_results"
+			],
+			[
+				"pos",
+				"pos_arg"
+			],
+			[
+				"po",
+				"pos_arg"
+			],
+			[
+				"pro",
+				"prof_index_list"
+			],
+			[
+				"prod",
+				"profile_index"
+			],
+			[
+				"remo",
+				"remove_tries"
+			],
+			[
+				"ap",
+				"app_remove"
+			],
+			[
+				"sier",
+				"sierra_pass"
+			],
+			[
+				"read",
+				"read_config"
+			],
+			[
+				"path",
+				"path_to_modem"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"paka",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/letp/legato/services/airvantage/DOTA/DOTA_Phase1/test_dota.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_sota.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/letp/legato/services/airvantage/lib/generateFw.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/letp/legato/services/airvantage/lib/fileManagement.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/letp/legato/host/lib/leafWrapper.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/sftp-config.json",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/letp/legato/services/airvantage/lib/fwupdate_common.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/letp/legato/services/airvantage/lib/avOperations.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/letp/legato/services/airvantage/lib/swidelta.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/letp/host/lib/av_Lib.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/qa/letp/legato/services/airvantage/lib/generateFw.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/qa/letp/legato/services/airvantage/lib/fwupdate_common.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/qa/letp/legato/services/airvantage/lib/fileManagement.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/qa/letp/legato/services/airvantage/lib/avOperations.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/qa/letp/legato/services/airvantage/DOTA/DOTA_Phase1/test_dota.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/qa/letp/config/host.xml",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/qa/letp/legato/services/airvantage/lib/swidelta.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/qa/letp/legato/host/lib/leafWrapper.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/qa/letp/legato/services/airvantage/FOTA/host/test_fota.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/resources/dcsCrossClient/crossClient.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_dataConnectionEnhanced.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/GlobalAppA/GlobalAppA.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/GlobalAppB/GlobalAppB.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/uicc/sim.xml",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_modem.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/conftest.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/sms_capability.xml",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/data_control.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/le_mrc.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/le_mdc.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/pa_mrc_qmi.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/pa_mdc_qmi.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/crossClient.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_dota.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/fileManagement.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/avOperations.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/swidelta.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_param.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/sftp-config-alt6.json",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/sftp-config-alt5.json",
+		"/C/users/harry/appdata/local/temp/sublime-sftp-browse-1552031781/mapped/work/legato/apps/leTP/module/pytest_plugin/lib/app.py",
+		"/C/users/harry/appdata/local/temp/sublime-sftp-browse-1552029511/mapped/home/jenkins/workspace/TestBench-Reserve/work/qa/letp/legato/basics/tools/targetTools/app/host/test_target_app.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/leafWrapper.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_target_app.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/sftp-config-alt4.json",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/dataConnectionEnhanced.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_atCmd.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_mdef.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_secureStorage.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/appBComponent/appB.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/appAComponent/appA.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_fota.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/__init__.py",
+		"/C/users/harry/appdata/local/temp/sublime-sftp-browse-1551047025/mapped/home/hgong/dcs_phase1_patch2/qa/letp/legato/services/dataConnectionService/dcsNewAPI/host/resources/dcsCrossClient/crossClient.c",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/dcs_phase1_patch2.py",
+		"/C/Users/harry/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/sftp-config-alt3.json",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/sftp-config-alt.json",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/sftp-config-alt2.json",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/test_dota.py1",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/get_images_leaf.py",
+		"/C/users/harry/appdata/local/temp/sublime-sftp-browse-1550269711/mapped/home/jenkins/workspace/TestBench-Reserve/work/qa/letp/legato/services/airvantage/lib/ApplyOTA.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/applyota.py",
+		"/C/Users/harry/Desktop/All Courses/WorkTerm2/sota.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal_web.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
